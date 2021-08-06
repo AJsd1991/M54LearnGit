@@ -1,0 +1,14 @@
+{
+    "name": "ehsanmody/mvc",
+    "description": "P6 V1 First MVC Project",
+    "authors": [{
+        "name": "Ehsan Kashfi",
+        "email": "ehsanmody04@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
